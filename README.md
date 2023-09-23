@@ -5,7 +5,8 @@
 ![Aryan's Banner](https://pbs.twimg.com/profile_banners/1532655992432824320/1695475609/1500x500)
 
 ---
-## KNOW ME MORE
+## KNOW ME MORE🪄
+
 - 🔭 I’m currently working on My Portfolio Website
 - 🌱 I’m currently learning HTML, CSS, Javascript, Linux
 - 👯 I’m looking forward to Connect and Learn from all the Amazing People Worldwide🌐
